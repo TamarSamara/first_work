@@ -44,7 +44,7 @@ def main():
         2: {"sex": "female", "age": 57, "height": 1.58, "name": "amal"},
         3: {"sex": "male", "age": 64, "height": 1.80, "name": "emad"},
         4: {"sex": "female", "age": 29, "height": 1.55, "name": "tamar"},
-        5: {"sex": "female", "age": 20, "height": 1.65, "name": "rima"}
+        5: {"sex": "female", "age": 20, "height": 1.65, "name": "karen"}
     }
     # ex.1 a:
     print("ex.1 a:")
